@@ -3,4 +3,10 @@ A repository for non-technical people in the most technical platform in the worl
 
 ## 🛠️ Introduction
 
-## Featured Projects
+## 🏆 Featured Tools
+
+## 📚 Tutorials and Resources
+
+## 💡 Project Ideas
+
+
