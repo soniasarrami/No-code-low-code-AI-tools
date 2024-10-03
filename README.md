@@ -16,6 +16,9 @@ Content here
 - https://www.noodl.net/ (A low-code platform where designers and developers build custom applications and experiences)
 ### Limited Free option and Paid
 - https://buildship.com/ (An AI-powered visual backend builder that enables you to automate any complex workflow)
+- https://relevanceai.com/ (The fastest platform to build and deploy AI apps & agents)
+- https://www.stack-ai.com/ (Build and Deploy AI Applications in minutes)
+- https://www.nocodescraper.com/ (Data Scraping without Code)
 ## 📚 Tutorials and Resources
 Content here
 ## 💡 Project Ideas
