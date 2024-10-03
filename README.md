@@ -10,7 +10,11 @@ A repository for non-technical people in the most technical platform in the worl
 ## 🛠️ Introduction
 Content here
 ## 🏆 Featured Tools
-- https://www.langflow.org/ (Langflow is a low-code app builder for RAG and multi-agent AI applications.) 
+### Open Source
+- https://www.langflow.org/ (A low-code app builder for RAG and multi-agent AI applications.)
+- https://flowiseai.com/ (Open source low-code tool for developers to build customized LLM orchestration flow & AI agents)
+### Limited Free option and Paid
+- https://buildship.com/ (An AI-powered visual backend builder that enables you to automate any complex workflow)
 ## 📚 Tutorials and Resources
 Content here
 ## 💡 Project Ideas
