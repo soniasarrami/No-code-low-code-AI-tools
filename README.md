@@ -20,8 +20,12 @@ This resource is designed to empower non-technical individuals to utilise the po
 - https://relevanceai.com/ (The fastest platform to build and deploy AI apps & agents)
 - https://www.stack-ai.com/ (Build and Deploy AI Applications in minutes)
 - https://www.nocodescraper.com/ (Data Scraping without Code)
+- https://www.cogniflow.ai/ (Chat with your documents, automate info extraction, or analyze images)
 ## 📚 Tutorials and Resources
-Content here
+### Free
+- 
+### Paid
+- https://maven.com/no-code-ai/no-code-ai-bootcamp (No-Code x AI Bootcamp)
 ## 💡 Project Ideas
 Content here
 
