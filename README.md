@@ -8,7 +8,8 @@ A repository for non-technical people in the most technical platform in the worl
 - [💡 Project Ideas](#-Project-Ideas)
 
 ## 🛠️ Introduction
-Content here
+This resource is designed to empower non-technical individuals to utilise the power of artificial intelligence without the need for extensive coding knowledge. AI has become an integral part of various industries and applications. However, the complexity of AI development often creates barriers for those without a technical background. This is where no-code and low-code AI tools come into play, democratizing access to AI capabilities. 
+
 ## 🏆 Featured Tools
 ### Open Source
 - https://www.langflow.org/ (A low-code app builder for RAG and multi-agent AI applications.)
