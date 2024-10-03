@@ -22,6 +22,7 @@ This resource is designed to empower non-technical individuals to utilise the po
 - https://www.stack-ai.com/ (Build and Deploy AI Applications in minutes)
 - https://www.nocodescraper.com/ (Data Scraping without Code)
 - https://www.cogniflow.ai/ (Chat with your documents, automate info extraction, or analyze images)
+- https://picoapps.xyz/ (a text-to-app platform that allows entrepreneurs, consultants, and small business owners to build web apps that harness the power of ChatGPT and other AI models)
 ## 📚 Tutorials and Resources
 ### Free
 - 
